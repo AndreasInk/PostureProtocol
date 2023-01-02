@@ -1,2 +1,2 @@
 # PostureProtocol
-Multiplatform protocol for posture detection using Bluetooth, ultrasonic audio, and wireless headphones
+Multiplatform protocol for posture detection using Bluetooth and wireless headphones
